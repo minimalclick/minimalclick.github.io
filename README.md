@@ -1,2 +1,2 @@
-# minimalclick.github.io
-minimal.click website
+# minimal&bull;click
+Ethical Experimental Small Tech Skunkworks
