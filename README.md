@@ -1,2 +1,2 @@
 # minimal&bull;click
-Ethical Experimental Small Tech Skunkworks
+Ethical experimental #smalltech research studio.
