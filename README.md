@@ -2,5 +2,5 @@
 
 Ethical experimental #smalltech research studio.
 
-website :: minimal.click
+website :: minimal.click  
 updates :: twitter.com/minimalclick
