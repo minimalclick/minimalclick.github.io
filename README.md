@@ -1,6 +1,5 @@
 # minimal&bull;click
 
-Ethical experimental #smalltech research studio.
+We build app and games for MacOS, iOS, iPadOS, etc...
 
-website :: https://minimal.click  
-updates :: https://twitter.com/minimalclick
+updates :: https://twitter.com/minimaldotclick
