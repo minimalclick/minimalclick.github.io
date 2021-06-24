@@ -1,5 +1,5 @@
 # minimal&bull;click
 
-We build app and games for  #MacOS, #iOS, #iPadOS, etc... #swift #swiftUI
+It's an open and distributed world.
 
 updates :: https://twitter.com/minimaldotclick
